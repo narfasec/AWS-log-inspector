@@ -1,0 +1,224 @@
+[
+    {
+        "S3": {
+            "s3_enable": [],
+            "s3_disable": [
+                "aircall-dms-tmp-sebin-production",
+                "aws-logs-555773567328-us-west-2",
+                "baptiste-aircall-voicemails",
+                "baptiste-test-delete-markers",
+                "bastien-athena-electron-server-logs",
+                "cf-templates-k6x3l34paiiw-us-west-2",
+                "cloudtrail-datadog-integration-555773567328-bucket",
+                "datadog-forwarder-forwarderzipsbucket-w1cr5ibf8fd5",
+                "datadog-forwarder-managed-forwarderbucket-1lqmbfgvyfxh8",
+                "datadog-forwarder-managed-forwarderbucket-37g67sgtlroh",
+                "datadog-forwarder-managed-forwarderbucket-4ip8ni5oa22c",
+                "datadog-forwarder-managed-forwarderbucket-fz495xj6lscf",
+                "datadog-serverless-macro-macrofunctionzipsbucket-18dlhgziy5zcq",
+                "datadog-serverless-macro-macrofunctionzipsbucket-1kh0n5pmw32x8",
+                "datadog-serverless-macro-macrofunctionzipsbucket-e66x2v4hcm3y",
+                "datadog-serverless-macro-macrofunctionzipsbucket-j1adcsu01k2a",
+                "production-authentication-external-cognito-backups",
+                "production-consumption-and-billing",
+                "production-fra-555773567328-s3-logs",
+                "production-fra-555773567328-sam-deployments",
+                "production-fra-555773567328-vtl-files",
+                "production-fra-555773567328-web-recordings",
+                "production-iad-555773567328-aircall-android",
+                "production-iad-555773567328-aircall-ios",
+                "production-iad-555773567328-cloudfront-logging",
+                "production-iad-555773567328-phone-aircall",
+                "production-iad-555773567328-phone-verizon",
+                "production-iad-555773567328-s3-logs",
+                "production-iad-555773567328-sam-deployments",
+                "production-iad-555773567328-vtl-files",
+                "production-identity-management-identities-documents-upload",
+                "production-numbers-management-csv-region-data",
+                "production-pdx-555773567328-admin-portal",
+                "production-pdx-555773567328-aircall-electron-releases",
+                "production-pdx-555773567328-aircall-ios",
+                "production-pdx-555773567328-analytics-etl-scripts",
+                "production-pdx-555773567328-analytics-firehose",
+                "production-pdx-555773567328-analytics-glue-jobs-tempdir",
+                "production-pdx-555773567328-analytics-redshift-backups",
+                "production-pdx-555773567328-android-aircall",
+                "production-pdx-555773567328-android-verizon",
+                "production-pdx-555773567328-assets-aircall",
+                "production-pdx-555773567328-assets-verizon",
+                "production-pdx-555773567328-batch-manifest",
+                "production-pdx-555773567328-batch-report",
+                "production-pdx-555773567328-call-assets-dead-audio-files",
+                "production-pdx-555773567328-cdn-aircall",
+                "production-pdx-555773567328-cdn-verizon",
+                "production-pdx-555773567328-clients-aircall",
+                "production-pdx-555773567328-cti-frontend-aircall",
+                "production-pdx-555773567328-dashboard-aircall",
+                "production-pdx-555773567328-dashboard-verizon",
+                "production-pdx-555773567328-dashboardv4-aircall",
+                "production-pdx-555773567328-developer-frontend-aircall",
+                "production-pdx-555773567328-download-frontend-aircall",
+                "production-pdx-555773567328-email-templates-private",
+                "production-pdx-555773567328-es-snapshot-web",
+                "production-pdx-555773567328-export-tickets",
+                "production-pdx-555773567328-graham",
+                "production-pdx-555773567328-graham-railsrunner",
+                "production-pdx-555773567328-infra-consul-backup",
+                "production-pdx-555773567328-infra-consul-ca",
+                "production-pdx-555773567328-integrations-frontend-aircall",
+                "production-pdx-555773567328-integrations-msteams-aircall",
+                "production-pdx-555773567328-internal-api-tooling-diagnostic",
+                "production-pdx-555773567328-invoicing",
+                "production-pdx-555773567328-ios-aircall",
+                "production-pdx-555773567328-ios-verizon",
+                "production-pdx-555773567328-multi-region-migrations-service",
+                "production-pdx-555773567328-now-frontend",
+                "production-pdx-555773567328-now2-frontend",
+                "production-pdx-555773567328-phone-aircall",
+                "production-pdx-555773567328-phone-verizon",
+                "production-pdx-555773567328-s3-logs",
+                "production-pdx-555773567328-sam-deployments",
+                "production-pdx-555773567328-tractor",
+                "production-pdx-555773567328-verizon-electron-releases",
+                "production-pdx-555773567328-vtl-files",
+                "production-pdx-555773567328-web",
+                "production-pdx-555773567328-web-calls-archived",
+                "production-pdx-555773567328-web-dump",
+                "production-pdx-555773567328-web-railsrunner",
+                "production-pdx-555773567328-web-recordings",
+                "production-pdx-555773567328-web-s3-inventory",
+                "production-sfo-555773567328-athena",
+                "production-syd-555773567328-s3-logs",
+                "production-syd-555773567328-sam-deployments",
+                "production-syd-555773567328-vtl-files",
+                "production-syd-555773567328-web-recordings",
+                "terraform-555773567328"
+            ]
+        }
+    },
+    {
+        "CloudFront": {
+            "cloudfront_with_logging": [
+                "EJYQ43Y3ZJT4M",
+                "E3BP8368FEWUN8",
+                "E3VZY7NFRINFOK",
+                "E1E8UKB1F8JMTN",
+                "E1SA8FIX9H5T8I",
+                "E3C2VPOC7EJ4BN",
+                "E2YSHPYE8OAIHH",
+                "E397JXZ2V1RJJ7",
+                "E11BNUIBYNTGTE",
+                "E6HPNP0YIDQKI",
+                "E2HRXYIC81EODT",
+                "E1FK82ZE43TC7J",
+                "EW5A0PIOR50RG",
+                "E21ZC4OFJ31UO8",
+                "E23WKPJ7YYKHFT",
+                "E2733BF7LANLZQ",
+                "EPA53XS0RJS02",
+                "E1S4IU00YQ74F3",
+                "E1UT24XKXB4NIT",
+                "EBBL50EP3C0DB",
+                "E1E5DVDCX2EBJ1",
+                "ERKECKYQEIRME",
+                "E1GGJMASY9OJCG"
+            ],
+            "cloudfront_without_logging": [
+                "E36LQ0WKQ4YDIT",
+                "E15EDOXXL26N9W"
+            ]
+        }
+    },
+    {
+        "Redshift": [
+            {
+                "us-west-2": {
+                    "redshift_enable": [],
+                    "redshift_disable": [
+                        "production-analytics"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "RDS": [
+            {
+                "us-west-2": {
+                    "rds_audit_logs": [
+                        "production-graham-instance-00",
+                        "production-graham-instance-01",
+                        "production-hub-instance-00",
+                        "production-hub-instance-01",
+                        "production-link-instance-00",
+                        "production-link-instance-01",
+                        "production-livecall-instance-00",
+                        "production-livecall-instance-01",
+                        "production-maestro-instance-00",
+                        "production-maestro-instance-01",
+                        "production-messaging-instance-00",
+                        "production-messaging-instance-01",
+                        "production-octopus-instance-00",
+                        "production-octopus-instance-01",
+                        "production-strongbox-instance-00",
+                        "production-strongbox-instance-01",
+                        "production-tree-instance-00",
+                        "production-tree-instance-01",
+                        "production-web-instance-00",
+                        "production-web-instance-01",
+                        "production-web-instance-02",
+                        "production-web-instance-03",
+                        "production-web-webhook-instance-00",
+                        "production-web-webhook-instance-01"
+                    ],
+                    "rds_other_logs": [
+                        "production-contacts-search-instance-00",
+                        "production-contacts-search-instance-01"
+                    ],
+                    "rds_no_cloudwatch_logs": [
+                        "production-admin-portal-api-instance-00",
+                        "production-admin-portal-api-instance-01",
+                        "production-bridge-instance-00",
+                        "production-bridge-instance-01",
+                        "production-carrier-management-instance-00",
+                        "production-contacts-extracts-directory-instance-00",
+                        "production-contacts-extracts-directory-instance-01",
+                        "production-identity-management-instance-00",
+                        "production-identity-management-instance-01",
+                        "production-metabase-instance-00",
+                        "production-metabase-instance-01",
+                        "production-numbers-management-instance-00",
+                        "production-numbers-management-instance-01",
+                        "production-shopify-instance-00",
+                        "production-shopify-instance-01",
+                        "sre-2943-web-production-writer"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "ECS": [
+            {
+                "us-east-1": {
+                    "Clusters_with_config": [],
+                    "Clusters_without_config": [
+                        "arn:aws:ecs:us-east-1:555773567328:cluster/production-shared"
+                    ]
+                }
+            },
+            {
+                "us-west-2": {
+                    "Clusters_with_config": [],
+                    "Clusters_without_config": [
+                        "arn:aws:ecs:us-west-2:555773567328:cluster/production-applications",
+                        "arn:aws:ecs:us-west-2:555773567328:cluster/production-shared"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "EKS": []
+    }
+]

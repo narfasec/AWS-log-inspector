@@ -1,0 +1,49 @@
+[
+    {
+        "S3": {
+            "s3_enable": [],
+            "s3_disable": [
+                "cloudtrail-datadog-integration-222791344786-bucket",
+                "production-datadog-forwarders-forwarderzipsbucket-oud6sq7490e7",
+                "production-pdx-222791344786-data-intelligence",
+                "production-pdx-222791344786-data-intelligence-firehose",
+                "production-pdx-222791344786-data-intelligence-segment-logs",
+                "production-pdx-222791344786-s3-logs",
+                "production-pdx-222791344786-sbc-logs",
+                "terraform-222791344786"
+            ]
+        }
+    },
+    "Nothing for CloudFront",
+    {
+        "Redshift": [
+            {
+                "us-west-2": {
+                    "redshift_enable": [],
+                    "redshift_disable": [
+                        "production-data-intelligence-analytics",
+                        "production-data-intelligence-internal"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "RDS": []
+    },
+    {
+        "ECS": [
+            {
+                "us-west-2": {
+                    "Clusters_with_config": [],
+                    "Clusters_without_config": [
+                        "arn:aws:ecs:us-west-2:222791344786:cluster/production-data-intelligence"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "EKS": []
+    }
+]

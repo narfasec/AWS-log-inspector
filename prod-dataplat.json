@@ -1,0 +1,31 @@
+[
+    {
+        "S3": {
+            "s3_enable": [],
+            "s3_disable": [
+                "aws-athena-query-results-538365544457-us-west-2",
+                "cloudtrail-datadog-integration-538365544457-bucket",
+                "datadog-forwarder-managed-forwarderbucket-1v69o1uiexdh",
+                "datadog-serverless-macro-macrofunctionzipsbucket-4oebnoh1hibl",
+                "production-pdx-538365544457-data-platform",
+                "production-pdx-538365544457-s3-logs",
+                "production-pdx-538365544457-sam-deployments",
+                "production-pdx-538365544457-sbc-logs",
+                "terraform-538365544457"
+            ]
+        }
+    },
+    "Nothing for CloudFront",
+    {
+        "Redshift": []
+    },
+    {
+        "RDS": []
+    },
+    {
+        "ECS": []
+    },
+    {
+        "EKS": []
+    }
+]

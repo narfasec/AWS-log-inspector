@@ -1,0 +1,45 @@
+029675609774 Sandbox ML
+033903719056 Sandbox Messaging
+053669555554 Staging Comunications Platform
+072542389716 Staging Security
+102775466801 Network Production
+129028823273 SandBox Dataplatform
+151305450671 Sandbox Architecture
+154169575467 Staging Dataplatform
+222791344786 Production DataIntelligence
+258622186404 Sandbox QA
+270858675073 Sandbox Marketing
+351236954445 Sandbox SRE
+360188792529 Sandbox-Client
+414059859629 Sandbox-VoiceAI
+451571382556 Production-Marketing
+486637217006 Audit
+538365544457 Production - Data Platform
+550875846087 Sandbox - Analytics
+555773567328 Production
+560886116381 Sandbox-Tooling
+562277909328 Sandbox-Fraud-AI
+629459209678 Sandbox-Ecosystem
+689193888274 Network - Staging
+739338721358 Sandbox - Communications Platform
+741518925628 Staging-Marketing
+745713908871 Production - Communications Platform
+751888081152 Production-Securit
+836981744411 DNS
+882886432180 Hiring-Test
+886862221201 Staging
+931570791067 Staging-DataIntelligence
+944988164204 QA
+998320133389 IAM
+
+Missing accounts for Lacework compliance:
+486637217006 Audit
+286142040653 Log archive
+645555712907 Master
+232338174778 Olivier Pailhes
+545332852343 production-Analytics
+825322956196 Sanbox-NumbersManagement
+649265684449 Sandbox - Setup
+274328076838 Sandbox-Telephony
+809849379942 Shared Services
+996629427160 Staging
